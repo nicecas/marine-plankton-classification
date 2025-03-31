@@ -1,0 +1,16 @@
+FeatureExtractor,Classifier,accuracy,macro avg_f1-score,macro avg_precision,macro avg_recall,macro avg_support,weighted avg_precision,weighted avg_recall,weighted avg_f1-score,weighted avg_support
+morphological,CatBoostClassifier,0.903 ,0.762 ,0.800 ,0.756 ,1571.000 ,0.896 ,0.903 ,0.894 ,1571 
+morphological,MLPClassifier,0.895 ,0.766 ,0.799 ,0.758 ,1571.000 ,0.892 ,0.895 ,0.890 ,1571 
+morphological,LogisticRegression,0.889 ,0.760 ,0.818 ,0.740 ,1571.000 ,0.890 ,0.889 ,0.884 ,1571 
+morphological,SVC,0.888 ,0.731 ,0.804 ,0.712 ,1571.000 ,0.889 ,0.888 ,0.881 ,1571 
+morphological,RandomForestClassifier,0.886 ,0.731 ,0.798 ,0.712 ,1571.000 ,0.878 ,0.886 ,0.873 ,1571 
+morphological,ExtraTreesClassifier,0.885 ,0.727 ,0.813 ,0.698 ,1571.000 ,0.879 ,0.885 ,0.871 ,1571 
+morphological,GaussianNB,0.857 ,0.740 ,0.752 ,0.757 ,1571.000 ,0.870 ,0.857 ,0.859 ,1571 
+morphological,LinearDiscriminantAnalysis,0.849 ,0.718 ,0.739 ,0.730 ,1571.000 ,0.859 ,0.849 ,0.847 ,1571 
+morphological,KNeighborsClassifier,0.824 ,0.585 ,0.703 ,0.558 ,1571.000 ,0.816 ,0.824 ,0.805 ,1571 
+morphological,SGDClassifier,0.819 ,0.556 ,0.620 ,0.549 ,1571.000 ,0.808 ,0.819 ,0.803 ,1571 
+morphological,QuadraticDiscriminantAnalysis,0.808 ,0.436 ,0.448 ,0.451 ,1571.000 ,0.753 ,0.808 ,0.772 ,1571 
+morphological,DecisionTreeClassifier,0.754 ,0.521 ,0.565 ,0.518 ,1571.000 ,0.756 ,0.754 ,0.749 ,1571 
+morphological,RidgeClassifier,0.644 ,0.253 ,0.301 ,0.275 ,1571.000 ,0.548 ,0.644 ,0.556 ,1571 
+morphological,AdaBoostClassifier,0.382 ,0.063 ,0.048 ,0.102 ,1571.000 ,0.197 ,0.382 ,0.252 ,1571 
+morphological,DummyClassifier,0.106 ,0.003 ,0.002 ,0.015 ,1571.000 ,0.011 ,0.106 ,0.020 ,1571 
